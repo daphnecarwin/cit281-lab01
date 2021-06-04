@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--@ 1 Daphne  staff   0 Apr  1 12:37 lab-01-folders.txt
+drwxr-xr-x  3 Daphne  staff  96 Apr  1 11:48 p1
+drwxr-xr-x  2 Daphne  staff  64 Apr  1 11:40 p2
+drwxr-xr-x  2 Daphne  staff  64 Apr  1 11:40 p3
+drwxr-xr-x  2 Daphne  staff  64 Apr  1 11:40 p4
+drwxr-xr-x  2 Daphne  staff  64 Apr  1 11:40 p5
+drwxr-xr-x  2 Daphne  staff  64 Apr  1 11:40 p6
+drwxr-xr-x  2 Daphne  staff  64 Apr  1 11:40 p7
+drwxr-xr-x  2 Daphne  staff  64 Apr  1 11:40 p8
