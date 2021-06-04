@@ -1,27 +1,15 @@
-## Welcome to GitHub Pages
+## Lab 01
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-lab01/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Purpose of the Lab: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Part 1: Install and setup your personal computer with the software tools required for this course
+Part 2: Practice using software tools
+Part 3: Practice terminal or shell commands
+Part 4: Practice keyboard shortcuts
+Part 5: Create your first Node.js server-side JavaScript file
 
-### Markdown
+Technologies Used for the Lab:
+Chrome, Visual Studio Code, Node.js, git, Postman
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Lab 01
-
-In lab-01 I setup my computer, apps for the term and we developed our project folders.
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-lab01/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+What I Learned From the Project:
+I learned about some useful software tools that I had not experienced or used before, and also refamiliarized myself with the terminal commands neccessary to create folders etc.
