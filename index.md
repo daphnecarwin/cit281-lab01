@@ -19,3 +19,6 @@ Chrome, Visual Studio Code, Node.js, git, Postman
 What I Learned From the Project:
 
 I learned about some useful software tools that I had not experienced or used before, and also refamiliarized myself with the terminal commands neccessary to create folders etc.
+
+
+![lab-01-node.png](lab-01-node.png)
